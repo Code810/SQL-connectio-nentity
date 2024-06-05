@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "eYi0Boi1oAnkdFBOx/Pcy8Swhab8dUF6/XIB86o7mOw=",
+  "Source": "AcademyApp",
+  "BasePath": "_content/AcademyApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AcademyApp\\wwwroot",
+      "Source": "AcademyApp",
+      "ContentRoot": "C:\\Users\\seidb\\OneDrive\\Masaüstü\\HR MANAGMENT\\AcademyApp\\AcademyApp\\wwwroot\\",
+      "BasePath": "_content/AcademyApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

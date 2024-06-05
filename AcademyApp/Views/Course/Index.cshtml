@@ -1,0 +1,13 @@
+﻿@using AcademyApp.Models;
+@model List<Course>
+
+<h1>Course index page</h1>
+
+<ul>
+    @foreach (var course in Model)
+    {
+        <li>
+            <a href="">@course.Name - @course.Description</a>
+        </li>
+    }
+</ul>

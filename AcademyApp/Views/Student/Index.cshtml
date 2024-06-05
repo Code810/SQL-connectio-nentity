@@ -1,0 +1,13 @@
+﻿@using AcademyApp.Models;
+@model List<Student>
+
+<h1>Student index page</h1>
+
+<ul>
+    @foreach (var student in Model)
+    {
+        <li>
+            <a >@student.Name @student.Surname</a>
+        </li>
+    }
+</ul>
